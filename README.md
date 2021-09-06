@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MrMiking
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2>Test Github</h2>
 
-<!---
-MrMiking/MrMiking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> <Strong><em> Mon premier projet github </em></strong>
+>
+><ul>
+><li> Ceci est le premier objet </li>
+><li> Puis le deuxième </li>
+><li> Ainsi que le troisième </li>
+
+Puis un text en<Strong> Gras</Strong> et en <em> Italic </em> !
